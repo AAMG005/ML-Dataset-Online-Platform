@@ -2,8 +2,8 @@
 
 
 This Repo has many online platform related dataset. 
-It has:
-Coursera
-data Camp
-Skill share
-Khan Academy
+It has:<br>
+<li>Coursera
+<li></li>data Camp
+<li>Skill share
+<li>Khan Academy
