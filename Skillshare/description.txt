@@ -1,0 +1,22 @@
+Dataset:
+
+
+Employee_ID: Unique identifier for each Skillshare employee.
+
+Employee_Name: Name of the employee.
+
+Department: Department where the employee works (IT, Marketing, Finance).
+
+Skillset: Primary skillset of the employee (Programming, Marketing Strategy, Financial Analysis).
+
+Experience_Years: Number of years of experience the employee has.
+
+Knowledge_Rating: Subjective rating of the employee's knowledge (1 to 5).
+
+Employee_Satisfaction: Measure of employee satisfaction with their role (1 to 5).
+
+Media_Sentiment: Sentiment analysis score representing overall sentiment around the employee or their work (-1 to 1).
+
+Retention_Score: Score indicating the likelihood of the employee staying with the company (0 to 1).
+
+Growth_Propensity: Score indicating the company's growth propensity based on the employee's attributes (0 to 1).
