@@ -1,0 +1,151 @@
+Employee_ID,Employee_Name,Department,Content_Type,Local_Context,Adaptation_Method,Content_Relevance_Rating
+9fadd42e-47f2-4181-9c5d-f40626e0b1a1,Philip Cowan,Adaptation,Video,Online Platform,Customization,3.557707193831535
+ec05d8b5-72f7-42cd-8140-a0d0dba43fae,Regina Spears,Research,Text,Online Platform,Localization,1.1000430208906677
+469435ee-24ad-4155-bfb6-686ba1859050,Valerie Brooks,Adaptation,Text,Online Platform,Customization,2.100117273476477
+700fdac6-8625-4ed0-9c39-667ea6a4cfb8,Nathan Baker,Content Creation,Text,Online Platform,Modification,1.892842952595291
+d861489c-c98a-4bf1-8f8e-24618869443e,Rebecca Ellis,Research,Video,Online Platform,Modification,3.9458848566560496
+029744a4-4f30-4d8a-88ef-864261ce5440,Joseph White,Adaptation,Interactive,School,Customization,3.706797949691645
+ed4a4bda-fc84-4a25-b8ba-413062c4e086,David Watkins,Content Creation,Text,School,Localization,4.568718270819382
+f2ec224e-77fe-42cc-9e3f-afef6fea5624,Dana Simmons,Adaptation,Interactive,School,Localization,1.3477553305176646
+e2f1506c-291d-46e8-96a5-1dc007936126,Jonathon Bowman,Research,Video,School,Localization,2.6876872787410817
+d0556851-ef18-4a48-93b7-31f33b4c673d,Dominic Andrews,Content Creation,Text,School,Customization,1.1191888777522814
+6a37df69-f2aa-447f-82a0-254e3cc60390,Travis Roberts,Content Creation,Video,School,Customization,1.8745518992144135
+78019b69-4213-420d-9744-1b5f7ebf3231,Michelle Ramsey,Research,Text,School,Customization,3.0214211524134496
+d8ae9ee0-a308-4721-ad60-d3b12e31d34d,Christopher Cook,Research,Text,Online Platform,Modification,1.1061438787354545
+71f92463-75f0-4a79-a4f9-1a94f7a266da,Veronica Ramirez,Content Creation,Video,Online Platform,Customization,1.795350602746594
+bb63e94b-dfcc-4982-968b-0168bffe7605,Linda Quinn,Adaptation,Video,School,Localization,3.599537751118093
+bd9d0e4f-8e1d-4835-8f0f-8e946f237be7,Wesley Harris,Adaptation,Text,School,Localization,3.1797659224128667
+dbd8ff6b-3501-42fb-9372-7040cd3a227f,Mr. Eric Davies,Research,Video,School,Customization,1.8817624881627868
+ccd4cbff-ea8b-4692-8414-a452d944e77a,Russell Nelson,Adaptation,Interactive,Online Platform,Customization,3.357062735503635
+cfdeb912-a7e3-4322-a7de-f760ee9ddfff,Desiree Kelly,Adaptation,Text,Online Platform,Customization,4.237721826711306
+bddc4a43-71e2-4b76-a17e-0eb594b53dae,Marcus Swanson,Research,Video,Library,Modification,1.025995038712244
+f9f20f1e-ff18-44b0-9034-c21d3e57e046,Tricia Meyers,Content Creation,Interactive,School,Customization,4.223277007331232
+9733f630-6f51-40ac-9ec1-c10391a688c0,Kimberly Romero,Adaptation,Interactive,Library,Localization,3.7925575799529074
+974a026b-b770-481c-bce8-a51e04f21ea4,Rebecca Cole,Adaptation,Interactive,School,Modification,2.3610020660719675
+30d2cbac-95f2-4f02-957c-1950fd252470,Debra Russell,Content Creation,Video,School,Modification,1.6219179992471262
+27bbcfe1-3327-477e-927a-371f62ab719d,Kimberly Lawson,Research,Video,Library,Localization,4.828852288827125
+43316824-a0d0-436b-869a-8253a0163742,Christian Brady,Adaptation,Video,Library,Localization,2.346378180450507
+ad47e22f-b5b9-420f-9ccd-57fbd7077627,Sandra Buckley,Adaptation,Video,School,Customization,1.3709833735205916
+8d4b7dac-3471-425e-b561-d6875a68c26f,Chase Roth,Adaptation,Text,Online Platform,Modification,1.386865507333856
+0025b11f-e6ae-42e0-8d51-33f25fbe7cad,Mr. Miguel Williams MD,Research,Interactive,Online Platform,Customization,4.389977465389839
+ec34bc29-32e1-4660-be6c-cf213e9d09e3,Helen Jenkins,Adaptation,Interactive,Library,Localization,3.4149041254675643
+f24007bd-b25e-41b7-a44f-ae77e34730c5,Brian Little,Content Creation,Text,Online Platform,Customization,4.22851309309752
+0ea418b0-af04-4476-a2e4-0e5d0f5ff26e,Alexis Solis,Research,Video,Library,Customization,3.9189271467752715
+10ae308d-cf4f-48e8-a12d-f21ab63e32f7,Jade Padilla,Adaptation,Video,Online Platform,Localization,3.144912365818803
+0889dccf-3e78-4fb5-abbe-4d47d765b007,Carrie Zhang,Research,Interactive,Library,Localization,4.892463055917482
+96a6f6b4-d090-44b6-b29d-78ffb96d8764,Michael Howard,Adaptation,Video,School,Customization,2.514137508833414
+d838bc25-5791-49eb-8d5f-a62eac68568c,Jennifer Jones,Content Creation,Interactive,Library,Localization,3.208162525092908
+13845ea6-6fd3-4e6e-9c0a-6d74bc74daa5,Ashley Green,Content Creation,Text,Online Platform,Customization,4.317618657011979
+b59bfe81-b107-44b9-859a-d0fbe55b7f86,Michelle Marsh,Adaptation,Text,School,Customization,3.4740790094569842
+0e6598cf-fabd-4bd2-803e-a7cf6014a492,Angela Moore,Research,Interactive,Library,Modification,4.446827601243109
+bd3e1f8a-ae76-4c0b-9a5a-3b9345199c5e,Ashley Norris,Adaptation,Text,Online Platform,Modification,3.309408581027048
+0d1c9e9a-c6fb-43d0-a5fa-c2f280896ba8,Joel Mayo,Content Creation,Video,School,Customization,3.818287344859694
+2c17abe6-b654-4aad-8abb-706782d89c1a,David Thomas,Research,Text,Online Platform,Localization,1.1832975346226489
+67f719cf-b0a4-4b77-9548-9f80c005ab33,Ryan Bowen,Content Creation,Text,School,Customization,1.9115931026061874
+7168f6c9-1db8-4445-b000-60be86501d71,Timothy Wallace,Research,Text,Online Platform,Localization,2.1575518544084287
+b3156ee9-053b-4b69-8ded-226817fe8501,Sarah Holmes,Content Creation,Interactive,School,Localization,1.31916790769451
+32a93aa2-bffd-4fe1-84e4-cae3a7bb56b0,Donna Watkins,Adaptation,Text,Online Platform,Modification,1.9311635454441207
+13e6a9f2-0cd8-44a1-98a2-60eb03925915,Donald Osborne,Adaptation,Interactive,Library,Modification,1.4040057176389165
+50105637-2b57-4129-a46a-114c4f9aefa6,Erica Mcconnell,Adaptation,Text,School,Modification,2.1118944124403685
+833d1166-b6a0-4342-be11-77ef5e90ae67,Sarah Mcgee,Research,Text,School,Modification,3.5427377770576007
+bc11e3fb-56cf-4e15-a871-da0c1216a543,Tamara Cooper,Content Creation,Interactive,Online Platform,Localization,2.459328715880337
+8abb1fe3-0b91-4c73-9ea9-06b650d1e04f,Douglas Zimmerman,Research,Interactive,Online Platform,Customization,2.4807238684675306
+9608b76b-7ac0-43dd-bff7-c24b168b31ea,Mrs. Kelly Walker,Research,Text,Online Platform,Localization,1.8380281230859508
+a758410c-0e83-45cb-8c8c-a39ab3ef6e6d,Matthew Clark,Adaptation,Video,Online Platform,Localization,2.0679112881964534
+77b0049c-e344-4926-b1bb-b65c838aeedf,Annette Thomas,Research,Video,School,Localization,4.746618350849976
+6ee6e0ed-d77f-46a9-a327-392c24f524ed,Keith Ruiz,Adaptation,Interactive,School,Customization,3.592141540986374
+ed930a1f-af33-480e-b5a5-1ad79c670c41,Garrett Murphy,Adaptation,Text,Library,Modification,3.4365240226679528
+fd982e20-9dbc-4092-ba20-8469b104eba0,Monica Barton,Content Creation,Text,School,Localization,1.684554592792388
+ecf0f428-1033-46f5-9294-97f4713b53eb,James Griffin,Research,Text,Online Platform,Customization,3.9165071918013967
+865fadd7-07de-4bb8-a6ae-c0e276daa945,Joseph Santiago,Content Creation,Text,Online Platform,Customization,1.6536099750477136
+c501937f-ce34-4eb8-8e65-128d806ee1c8,Betty Johnson,Content Creation,Text,School,Customization,2.517821767030591
+6b080f72-4843-4434-9821-713bc7bf520a,Jenna Hanson,Adaptation,Video,Online Platform,Customization,4.958093402546381
+1bac68f7-0129-4bc1-bde6-186874ea36be,Brianna Mays,Content Creation,Video,School,Localization,3.5599990394163714
+579f9e0a-aa7c-4c77-980e-83300aa71058,Brian Hall,Content Creation,Text,Online Platform,Customization,3.227798975098585
+25ffb557-b9f9-4c74-9f83-ac8b99ba74fa,Erin Buckley,Adaptation,Video,School,Localization,3.7384570039594984
+c66791ea-015f-4e09-869f-bfabb0d71ce1,Aaron Walters,Adaptation,Interactive,Library,Localization,4.371407680759239
+4ebe8cea-8376-4155-9e09-1ccb665768df,Kevin Mullen,Research,Interactive,Online Platform,Modification,4.103999646184979
+6cbb5328-40eb-438c-9baf-058ad1744354,Angela Peterson,Research,Interactive,Online Platform,Localization,1.9161922878564175
+9a1a52f1-5303-4a4d-aa4c-c0235f30ef40,Angela Rodgers,Research,Text,Online Platform,Localization,1.128400975616151
+e3fc4ec2-d9db-407a-8e7c-0c5aeecf8bad,Christopher Roberts,Adaptation,Text,Online Platform,Localization,2.2618121922363277
+d6bb93d3-316f-4929-9750-a5c7aa607710,David Campbell,Research,Text,School,Localization,2.070963503902811
+94bbf00f-bf44-410b-b4ec-147fbba53a3e,Ryan Watson,Adaptation,Text,School,Localization,1.8439313743453059
+02d9006c-a676-4723-8dde-449fbe0bdf81,Regina Smith,Content Creation,Video,Online Platform,Customization,4.771638857340218
+1bc38f9d-d02f-4deb-aa8d-cc14e2c7b3f3,Melissa Rollins,Content Creation,Video,Online Platform,Localization,4.505470505890676
+fde1405c-0ee0-45f2-b222-18a7dd19cb86,Julie Brooks,Content Creation,Video,Library,Modification,2.2587115231939117
+a5e89b73-545d-41c8-936b-9bb004528bfd,Cheryl Taylor DDS,Content Creation,Text,School,Localization,3.62175466117952
+e627e35a-9fa1-4976-8a61-9747c37bad72,Taylor Rojas,Content Creation,Text,School,Modification,2.582527604242657
+2de7638c-64cc-465c-b78e-e522ddcd446e,Lisa Schroeder,Content Creation,Interactive,School,Modification,4.658190358962174
+357afcca-807d-40ee-8b6f-ef59ca19effe,David Rodriguez,Adaptation,Interactive,Online Platform,Customization,2.835407410349595
+8a9a4eed-8648-4d26-b411-7bb713595b68,Philip Brown,Adaptation,Interactive,School,Modification,2.05952066599221
+30037cad-824e-4eaf-aa31-c5d3addef401,Melissa Campbell,Adaptation,Interactive,Online Platform,Customization,1.9865100307759338
+67b859c9-db5b-4ef3-a3f9-055f40ab3b4e,Brandy Ayers,Research,Video,Library,Localization,3.245472536652603
+d8a185fa-a092-412f-b1a2-96ca9eb45dd1,Travis Chen,Research,Interactive,Online Platform,Modification,2.050966434091741
+43627f74-ad5a-46d7-9f66-af1ca2adccc4,Samuel Butler,Adaptation,Interactive,Library,Localization,3.338343960894162
+a873763b-134a-40bf-a4a4-2f0a1b176ddb,Melvin Mills DDS,Adaptation,Interactive,Library,Modification,4.591291534409908
+98317f40-89c2-47aa-a4ae-f55c3b81e18f,Brittany Smith,Adaptation,Interactive,Online Platform,Localization,2.597602020561589
+7630d0b2-8fb8-433b-8482-99c58966cc4e,Eric Smith,Adaptation,Interactive,Library,Modification,1.8772830366291333
+5685cb9e-a646-408d-a960-e0a8a59557b7,Stephanie Ruiz,Research,Interactive,Online Platform,Modification,4.990150425980441
+29f0136d-760c-4f68-8347-f6f802e42952,Richard Davis,Adaptation,Interactive,School,Modification,3.038105174705858
+461a54ca-4733-4236-93b9-22d055c65ef4,Tara Burke,Content Creation,Video,Library,Localization,1.3636376486951756
+d92d7e3f-c4a7-4d31-93ed-99032d1458c1,Benjamin Dunn,Content Creation,Video,School,Customization,1.1884655016989383
+8a7442c5-94d8-4b11-aaba-97346099ab0d,David Palmer,Adaptation,Text,Online Platform,Customization,1.4385965214026366
+8499da1f-8a9b-4a81-997b-3200adfbc9a1,Heather Smith,Adaptation,Interactive,School,Modification,3.50978416681236
+1b4def42-b794-4b2c-b3a3-160600478984,Lauren Price,Adaptation,Interactive,Online Platform,Localization,4.168317457451856
+cc6e8e6b-a3ef-44b8-a00d-eaf0bd0e54f5,Ryan Miles,Adaptation,Text,Library,Modification,2.688639867198736
+11123a88-5d21-4560-a043-521ba96d036e,John Rodriguez,Research,Video,Online Platform,Customization,1.2541108246078285
+007afca0-cfe5-4d2e-a88c-4d7d5913f3fe,Michael Clark,Research,Text,School,Customization,2.526477146026147
+2288554f-b21b-46aa-b8af-b3012cc039a3,Elizabeth Walker,Research,Interactive,School,Customization,4.984485520960387
+a010a05d-c960-41c0-8728-cbfe03db8ec4,Samantha Aguilar,Research,Video,School,Customization,3.116457380396548
+acc321b9-8274-4349-954e-63d038621346,Jared Green,Adaptation,Text,Library,Customization,4.884313510454472
+e5bf2c60-952e-4dd4-bdda-01695e002aa1,David Thomas,Adaptation,Interactive,School,Localization,4.443118808937992
+548261cb-923e-4157-b1cb-7ea62b712197,Michael Hunt,Content Creation,Text,Library,Modification,1.0459240877712785
+f321f2f3-3725-42e8-a55a-4d24a98d2a76,Emily Cox,Content Creation,Text,School,Modification,3.8828872774407786
+8971f1ad-3628-4b00-9da6-86eb5b6c344d,Colin Jones,Research,Interactive,Library,Customization,3.726841476106299
+55798104-5b15-4677-bf49-b292a083d27b,Julie Joyce,Content Creation,Video,Online Platform,Modification,3.1478813216351806
+074a8722-0a40-4778-86f8-75d75e64b5ba,Melissa Hart,Research,Video,School,Localization,2.067300759810171
+2ac1b60e-c3d8-4c63-9b05-d2bb6dc23dbf,Andres David,Research,Video,School,Modification,3.5638471943192322
+bd0599ae-444a-4321-b0fd-ae52b18195af,Stephanie Barber,Adaptation,Text,Online Platform,Localization,1.4462086943835057
+cbefa058-78af-4b73-a1fa-f324840fbcda,Ryan Rodriguez,Content Creation,Interactive,Library,Modification,2.73906100267642
+d07bfd54-b620-43e5-8831-ffdb5efee97c,Frank Burns,Content Creation,Interactive,School,Localization,2.8148948253168258
+52b00992-c0b3-42b3-ae23-08df95aecc81,Heather Martinez,Content Creation,Video,Online Platform,Customization,4.81526371008432
+d4e8823f-3cc5-4f7e-8c71-39451aa5b31d,Edward Medina,Adaptation,Text,Library,Localization,4.503411761512776
+2e8209ef-efa5-4536-af71-f29d61df4735,Ashlee Davis,Content Creation,Interactive,School,Localization,2.053556203004363
+d954e8b2-84b4-4f0c-ac4a-2cb3cba6297f,Dale Moss,Research,Video,Library,Customization,3.0023444522011933
+16843026-f321-494b-b2a1-0a743ac90bfc,Rachel Miller,Research,Interactive,Online Platform,Localization,1.7146075221205255
+aa55b3b9-bb6a-4c69-9d1d-e96c2be621fb,Rachel Mclaughlin,Content Creation,Text,Library,Customization,4.650511357379282
+49d3b7db-5cca-4c29-abd6-3e771ef258cd,Olivia Moyer,Content Creation,Video,Online Platform,Customization,4.482074279347067
+b8debf45-b963-4b49-8d29-c89c663cc4a4,Kelly Phillips,Research,Interactive,Online Platform,Modification,2.1937791657945316
+bf04a289-dc14-4a1b-b544-a7668482556a,Nancy Sims,Research,Text,School,Localization,3.5557979794640207
+347d1c07-d116-42b0-999b-d163ea41423e,Cathy Durham,Research,Text,Library,Customization,3.4358808457526893
+a4a9181e-f707-4dcf-b084-ee60cbad2949,Dr. Connie Chan,Content Creation,Interactive,Online Platform,Customization,1.6113570741985392
+d9ec4dcc-2d74-4071-a8a2-a8e61c99cc39,Jessica West,Research,Video,Online Platform,Localization,4.050043200300605
+0078ee70-a710-4ee3-abdd-20160f2cf069,Kristen Bowen,Adaptation,Text,School,Localization,3.157516120478503
+f06d7588-ea94-4151-9d0f-9e665b9b3a50,Troy Erickson,Adaptation,Video,Online Platform,Localization,4.114505914522233
+75e0a014-4d43-4ffc-8ca6-44faed690c76,Cynthia Ward,Adaptation,Text,Online Platform,Modification,3.12141468878071
+70d8613e-b4c9-453c-8156-bcec691390be,Joshua Phillips,Research,Interactive,Library,Customization,1.002287584511774
+f32e504b-e89e-4023-abf4-9818ed5d93c4,Elizabeth Pham,Adaptation,Interactive,School,Localization,2.2966242280186924
+ba5d8b0f-96af-4893-a8eb-fdc0e39c0fcd,Ethan Brock,Adaptation,Text,School,Localization,1.0779069695433292
+de5b9d28-8f07-4bd6-af99-a6bf3d4a79d4,Maria Mclaughlin,Research,Video,Library,Modification,4.716394465058468
+51572c32-4d42-4e74-9094-cb25e94e4230,Elizabeth Lewis PhD,Content Creation,Interactive,Online Platform,Modification,4.514887511292737
+6c52437e-af04-4c75-b979-844d7b906a98,William Martin,Research,Video,Online Platform,Localization,4.326662117444718
+39c2f294-86bc-4eac-b0b6-7bf9b3988f17,Joseph West,Adaptation,Text,Online Platform,Modification,2.2300565016106457
+0a76db2b-53d0-41f4-ac0a-7f16e0a182a0,Elizabeth Johnston,Research,Text,School,Customization,1.2317006659767502
+0ba3816a-6cfd-498b-960d-25ee9494b1db,Peggy Guzman,Research,Interactive,School,Modification,4.512038396816163
+eda3f421-ebb4-4ed6-b873-24ff8596ce35,Gary Walsh,Research,Text,Library,Customization,4.787797781191976
+4a53a893-240e-4650-9cf0-8bee456702ec,Patrick Harrington,Content Creation,Text,School,Customization,1.342613808271515
+2c210738-6b21-4ea4-981e-5b3c142d64ae,Samantha Flores,Research,Video,School,Customization,2.943961853266455
+c2df5cfa-068a-4e68-9d4f-499f5052de06,Zachary Adkins,Research,Text,School,Localization,1.2768500738735344
+b7db7dbe-864a-46a1-85c9-9e3bf9b57706,Justin Suarez,Adaptation,Interactive,Library,Customization,4.042408661028926
+520fcef6-f28f-45e4-b538-624e4b304a11,Kathy Owens,Content Creation,Interactive,Library,Customization,4.063337717227951
+b8a3fa09-fee9-4f20-91d7-e831a1c6b77e,Tonya Douglas,Content Creation,Interactive,Online Platform,Customization,1.5135658579990512
+62a0d957-254f-43c5-909a-a86596cc82ac,Amy Mcpherson,Adaptation,Text,School,Customization,2.9011295123949252
+df8de1a5-76bc-4f97-9d2a-7d6f098ecd98,Brett Brown,Research,Video,Library,Modification,3.1992143739797756
+cfde3182-85f1-49d9-914d-f03bcf6a27f5,John Stevens,Adaptation,Interactive,School,Modification,2.0602265157602364
+bbb33ae8-db38-407e-a440-70bee21fec08,Justin Smith,Adaptation,Video,Online Platform,Modification,4.48973216434103
+7c06744f-ebc7-41d0-9f01-d9c925104ef8,Daniel Johnson,Content Creation,Text,Online Platform,Modification,2.6925517608035476
+69790caf-5ffd-494e-9383-42b4a664ed54,Samantha Hoffman,Research,Interactive,Online Platform,Customization,1.8471928217683282
+d97276fa-9cb1-409a-af4d-3b8a451893d9,Dr. Charles Acosta MD,Research,Interactive,Library,Customization,3.1571843551178334
+92378074-eecf-4763-bc77-90cc1f3e377c,Eric Alvarez,Content Creation,Video,School,Customization,3.9197242763599047
+3cbd5def-f854-420f-9c4a-7b518e57a1d3,Mary Parks,Research,Text,Library,Modification,1.8046042535587836
+27bb2d1a-5f51-4d5b-9ec5-2251be414b3c,Erica Hansen,Content Creation,Text,Library,Modification,2.24686516520358
