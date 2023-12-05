@@ -1,0 +1,9 @@
+course_title : Contains the course title.
+course_organization : It tells which organization is conducting the courses.
+course_Certificate_type : It has details about what are the different certifications available in courses.
+course_rating : It has the ratings associated with each course.
+course_difficulty : It tells about how difficult or what is the level of the course.
+course_students_enrolled : It has the number of students that are enrolled in the course.
+
+
+reference: https://www.kaggle.com/datasets/siddharthm1698/coursera-course-dataset
