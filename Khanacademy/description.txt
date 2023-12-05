@@ -1,0 +1,7 @@
+1. *Employee_ID*: Unique identifier for each employee (categorical)
+2. *Employee_Name*: Name of the employee (categorical)
+3. *Department*: Department of the employee (categorical)
+4. *Content_Type*: Type of educational content (categorical)
+5. *Local_Context*: Local context for content adaptation (categorical)
+6. *Adaptation_Method*: Method used for content adaptation (categorical)
+7. *Content_Relevance_Rating*: Rating indicating the relevance of the adapted content (numeric)
